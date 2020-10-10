@@ -1,0 +1,14 @@
+body{
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5rem 7rem;
+  gap: 1rem;
+  flex: 1;
+}
